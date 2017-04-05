@@ -25,7 +25,7 @@ namespace GradeBookProject
                 }
             }
         }
-
+        int testingGit;
         public GradeBookType Type = GradeBookType.Bachelor;
         public static int MaximumGrade = 100;
         public static int MinimumGrade = 0;
